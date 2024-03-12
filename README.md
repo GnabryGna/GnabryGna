@@ -3,13 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=4169e1&height=200&section=header&text=GnabryGna&fontSize=40&fontColor=ffffff)
 
 ####  :wave: Welcome to my github profile !
+<br>
 
-<br/>
-<br/>
-  
-####  :clipboard: Once I've Used 
-  
- <br/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+💌 Email : keunhaa9@gmail.com
+
+
+####  :hammer_and_pick: Tech Stack :hammer_and_pick:
+####  :clipboard: Used as the main 
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
@@ -18,9 +20,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Pycharm-808080?style=for-the-badge&logo=Pycharm&logoColor=white">
- 
-   <br/>
-   <br/>
+
 <!--
 **GnabryGna/GnabryGna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
