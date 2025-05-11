@@ -5,7 +5,8 @@
 ####  My research interests focus on Reinforcement Learning and its real-world applications to embodied intelligence.
 ####  Specifically, my focus lies in Meta-RL and VLA foundation models.
 
-#### :book: 2025.3 ~ current - COLab, Hanyang Univ.
+:book: Education
+#### 2025.3 ~ current - COLab, Hanyang Univ.
 #### 2019.3 ~ 2025.2 - B.S, Division of AI Convergence Engineering, Dongguk Univ.
 <br>
 
