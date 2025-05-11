@@ -1,12 +1,11 @@
 <div align="center">
 
-
 ####  :wave: Hi! Welcome to my github profile !
 
 ####  My research interests focus on Reinforcement Learning and its real-world applications to embodied intelligence.
 ####  Specifically, my focus lies in Meta-RL and VLA foundation models.
 
-####  2025.3 ~ current - COLab, Hanyang Univ.
+#### :book: 2025.3 ~ current - COLab, Hanyang Univ.
 <br>
 
 
