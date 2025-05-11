@@ -1,28 +1,28 @@
 
 
-####  :wave: Hi! Welcome to my github profile !
+####  Hi!:wave: Welcome to my github profile !
 
 ####  My research interests focus on Reinforcement Learning and its real-world applications to embodied intelligence.
 ####  Specifically, my focus lies in Meta-RL and VLA foundation models.  
 
-
+<br></br>
 :book: Education
 #### 2025.3 ~ current - COLab, Hanyang Univ.
 #### 2019.3 ~ 2025.2 - B.S, Division of AI Convergence Engineering, Dongguk Univ.
 <br>
 
-####  :clipboard: Used as the main 
+
+####  :clipboard: Skills
 ![jax_badge][jax_badge_link]
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 <br></br>
 
 💌 Email : keunhaa9@gmail.com
 
+<a href="https://www.linkedin.com/in/geunha-kim-08b0352b3/" target="_blank"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"></a>
 <a href="https://www.instagram.com/gnabrygna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 [jax_link]: https://github.com/google/jax
