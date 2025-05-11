@@ -1,8 +1,12 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=4169e1&height=200&section=header&text=GnabryGna&fontSize=40&fontColor=ffffff)
 
-####  :wave: Welcome to my github profile !
+
+####  :wave: Hi! Welcome to my github profile !
+
+####  :wave: My research interests focus on Reinforcement Learning and its real-world applications to embodied intelligence.
+####  Specifically, my focus lies in Meta-RL and VLA foundation models.
+
+####  2025.3 ~ current - COLab, Hanyang Univ.
 <br>
 
 
