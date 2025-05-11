@@ -1,6 +1,6 @@
 
 
-####  Hi!:wave: Welcome to my github profile !
+####  Hi!👋 Welcome to my github profile !
 
 ####  My research interests focus on Reinforcement Learning and its real-world applications to embodied intelligence.
 ####  Specifically, my focus lies in Meta-RL and VLA foundation models.  
