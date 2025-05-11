@@ -6,6 +6,7 @@
 ####  Specifically, my focus lies in Meta-RL and VLA foundation models.
 
 #### :book: 2025.3 ~ current - COLab, Hanyang Univ.
+#### 2019.3 ~ 2025.2 - B.S, Division of AI Convergence Engineering, Dongguk Univ.
 <br>
 
 
