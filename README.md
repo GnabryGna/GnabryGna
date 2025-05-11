@@ -14,6 +14,14 @@
 
 ####  :clipboard: Skills
 ![jax_badge][jax_badge_link]
+![pytorch_badge][pytorch_badge_link]
+[pytorch_link]: https://pytorch.org
+[pytorch_badge_link]: https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white
+
+![python_badge][python_badge_link]
+[python_link]: https://www.python.org
+[python_badge_link]: https://img.shields.io/badge/Python-Programming-3776AB.svg?style=flat-square&logo=python&logoColor=white
+
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
