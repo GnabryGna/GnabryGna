@@ -21,7 +21,7 @@
 
 <br></br>
 
-Contacts
+Contacts <br></br>
 📧 keunhaa9@gmail.com
 
 <a href="https://www.linkedin.com/in/geunha-kim-08b0352b3/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
