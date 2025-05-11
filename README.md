@@ -23,8 +23,8 @@
 💌 Email : keunhaa9@gmail.com
 
 <a href="https://www.linkedin.com/in/geunha-kim-08b0352b3/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="30" height="30" style="margin-right: 8px;">
-  <span style="font-size: 16px; color: #0077b5;">LinkedIn</span>
+  <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="15" height="15" style="margin-right: 8px;">
+  <span style="font-size: 16px; color: #0077b5;">Linkedin</span>
 </a>
 
 [jax_link]: https://github.com/google/jax
