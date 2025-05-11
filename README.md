@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ####  :wave: Hi! Welcome to my github profile !
 
